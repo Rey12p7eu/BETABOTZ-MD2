@@ -25,7 +25,6 @@ let tags = {
   'github': 'MENU GITHUB',
   'group': 'MENU GROUP',
   'image': 'MENU IMAGE',
-  'nsfw': 'MENU NSFW',
   'info': 'MENU INFO',
   'internet': 'INTERNET',
   'islamic' : 'MENU ISLAMI',
